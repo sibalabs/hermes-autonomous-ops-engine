@@ -1,0 +1,10 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+crewai>=0.86.0
+supabase>=2.10.0
+pydantic>=2.9.0
+python-dotenv>=1.0.0
+sse-starlette>=2.1.0
+httpx>=0.27.0
+# Pin wheel-friendly cryptography (newer sdists require Rust toolchain)
+cryptography>=43.0.3,<49
