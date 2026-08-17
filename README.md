@@ -24,7 +24,7 @@ Built with a decoupled frontend/backend architecture, Hermes utilizes a Next.js 
 
 ## 🔒 Security & Intellectual Property Note
 
-*Proprietary AI prompts, multi-agent system instructions, and operational logic have been abstracted out of the source code and load dynamically via environment variables (`os.getenv`) in `backend/crew_orchestrator.py`. See `backend/.env.example` for the public redaction structure.*
+> *Proprietary AI prompts, multi-agent system instructions, and operational logic have been abstracted out of the source code and load dynamically via environment variables (`os.getenv`) in `backend/crew_orchestrator.py`. See `backend/.env.example` for the public redaction structure.*
 
 ## 📜 License
 
